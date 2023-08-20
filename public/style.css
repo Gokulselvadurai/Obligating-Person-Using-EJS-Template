@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 72, 0);
+}
+.main{
+    background-color: antiquewhite;
+    margin: 150px 60px;
+    text-align: left;
+    padding-left: 45px;
+}
+.main h1{
+    
+    padding-top: 30px;
+}
+.text{
+    color: rgb(61, 61, 61);
+}
+.inside{
+    background-color: antiquewhite;
+    padding-bottom: 25px;
+}
+.name{
+    background-color: azure;
+    border: none;
+    padding: 3px 4px;
+    border-radius: 2%;
+}
+.final{
+    border: none;
+    background-color: rgb(255, 102, 0);
+    margin-left: 3px;
+    margin-bottom: 25px;
+    padding: 3px 15px;
+    border-radius: 14%;
+    font-weight: bold;
+    color:antiquewhite;
+}
+.final:hover{
+    background-color: rgb(253, 163, 103);
+    color:white;
+}
